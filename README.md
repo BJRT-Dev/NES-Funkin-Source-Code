@@ -1,4 +1,4 @@
-# NES Funkin' v1.0 Source Code
+# NES Funkin' Source Code
 Here you can find the source code of the NES demake of Friday Night Funkin'!
 ## Files
 **game.s** - The main file of the game, contains the header and some variable names.
